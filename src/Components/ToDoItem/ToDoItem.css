@@ -1,0 +1,24 @@
+.todo-list {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+
+h3{
+    color: #0000FF;
+}
+
+p {
+    color: #000000;
+}
+.list-details {
+   display: flex;
+   flex-direction: column;
+}
+
+.list-status {
+    margin-top: 21px;
+    color: #008000;
+    font-weight: bold;
+    display: flex;
+}
